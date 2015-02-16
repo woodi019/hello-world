@@ -8,7 +8,7 @@
   }
   
   function yetAnotherCooolFunction() {
-	return true;
+	return false;
   }
 
   echo "Im the testfile!";
