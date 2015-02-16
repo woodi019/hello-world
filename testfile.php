@@ -1,15 +1,19 @@
 <?php
-  function coolFunction() {
+class testClass {
+  public function __construct() {
+  }
+
+  private function coolFunction() {
     return "";
   }
 
-  function anotherCoolFunction() {
+  private function anotherCoolFunction() {
     return false;
   }
   
-  function yetAnotherCooolFunction() {
+  private function yetAnotherCooolFunction() {
 	return true;
   }
-
-  echo "Im the testfile!";
+}
+ 
 ?>
