@@ -14,6 +14,10 @@ class testClass {
   private function yetAnotherCooolFunction() {
 	return true;
   }
+  
+  private function ooooopsFunction() {
+  	
+  }
 }
  
 ?>
